@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 https://github.com/Pedrogomesx/Pedrogomesx/blob/output/github-contribution-grid-snake.gif
 ![snake gif](https://github.com/Pedrogomesx/Pedrogomesx/blob/output/github-contribution-grid-snake.gif)
-![Snake animation](https://github.com/Pedrogomesx/Pedrogomesx/blob/output/snake.svg)
+![Snake animation](https://github.com/Pedrogomesx/blob/output/snake.svg)
