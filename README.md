@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/pedrogomesx/Pedrogomesx/blob/output/github-snake.svg)
+![snake gif](https://github.com/pedrogomesx/Pedrogomesx/blob/output/github-snake.svg)
