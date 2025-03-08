@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/Pedrogomesx/Pedrogomesx/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/Pedrogomesx/Pedrogomesx/blob/output/github-contribution-grid-snake.gif)
-![Snake animation](https://github.com/Pedrogomesx/blob/output/snake.svg)
+
+### Watch my contribution graph get eaten by the snake :snake:
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
